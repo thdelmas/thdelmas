@@ -1,11 +1,6 @@
 # Hi there 👋
 <p align="center">
-  <p align="center">
-<img src="https://komarev.com/ghpvc/?username=thdelmas" alt="thdelmas"/>  
-</p>
-  <p align="center">
   <img src="https://metrics.lecoq.io/thdelmas" alt="Github Metrics">
-  </p>
 </p>
 
 ## 🔭 I’m currently working on 42 Cursus
@@ -21,6 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdelmas&layout=compact&theme=tokyonight&show_icons=true">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thdelmas" alt="thdelmas"/>  
+</p>
 <!--
 **thdelmas/thdelmas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
