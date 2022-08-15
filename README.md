@@ -1,8 +1,8 @@
 ![Matrix](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 
 # 🧑‍💻 Théophile Delmas 🚀
-- a.k.a. `@Jerry`
-- a.k.a. `@Mia`
+- a.k.a. Jerry @42Paris
+- a.k.a. Mia @42Barcelona
 
 ## 🔭 I’m working on 42 Cursus
 - Level: `13.42`
