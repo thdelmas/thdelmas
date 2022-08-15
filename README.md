@@ -6,7 +6,16 @@
 - **Jerry** `@42Paris`
 - **Mia** `@42Barcelona`
 
-## 🔭 I’m working on 42 Cursus
+
+
+## [42 Barcelona](https://github.com/42Barcelona)
+
+I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https://github.com/42Barcelona)
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
+
+
+## 🔭 I’m working on [42 Cursus](https://42.fr/)
 - Level: `13.42`
 - Branch: `Unix`
 - Specialization: `42 Pedagogy & Campus Management`
@@ -35,3 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Reach me
+
+- [linkedIn]
