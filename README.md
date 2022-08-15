@@ -1,12 +1,12 @@
-# Hi there 👋
-![image](https://user-images.githubusercontent.com/49293011/184690850-b290950f-d8ab-4f54-89cc-fd156ea3f10d.png)
+![Matrix](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
+# Théophile Delmas
+- a.k.a. `@Jerry`
+- a.k.a. `@Mia`
 
-## 🔭 I’m currently working on 42 Cursus
-<!--[42 STATS]-->
-<p align="center">
-  <img src="https://badge42.herokuapp.com/api/stats/thdelmas?privacyName=true&privacyEmail=true">
-</p>
-
+## 🔭 I’m working on 42 Cursus
+- Level: `13.42`
+- Branch: `Unix`
+- Specialization: `42 Pedagogy & Campus Management`
 
 ## 💬 Ask me about ...
 <!--[TOP LANGUAGES]-->
