@@ -1,7 +1,5 @@
 # Hi there 👋
-<p align="center">
-  <img src="https://metrics.lecoq.io/thdelmas" alt="Github Metrics">
-</p>
+![image](https://user-images.githubusercontent.com/49293011/184690850-b290950f-d8ab-4f54-89cc-fd156ea3f10d.png)
 
 ## 🔭 I’m currently working on 42 Cursus
 <!--[42 STATS]-->
