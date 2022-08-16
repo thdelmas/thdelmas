@@ -29,11 +29,21 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 - Level: `13.42`
 - Branch: `Unix`
 
-## Specializations
-- Peer-Pedagogy, autodidacticism & personnal development
+## Predilections
+
+### The ones I do already
+- Cyberecurity
 - Gamification systems
+- Event Driven Automation
 - 42 Campus Management (from pedagogical perspective)
 - DevOps & Infra management (same from IT perspective)
+- Peer-Pedagogy, autodidacticism & personnal development
+
+### The ones I would like to do
+- Bio-Tech
+- Neural interfaces
+- Decentralized Big Data
+- After world journalism
 
 ## Support me
 > I'm super happy if my work is useful and even more if you enjoy it
