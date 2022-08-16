@@ -45,6 +45,7 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 - Decentralized Big Data
 - After world journalism
 - Improved logical sophism detector
+  - Make it run live on TV during elections campains
 
 ## Support me
 > I'm super happy if my work is useful and even more if you enjoy it
