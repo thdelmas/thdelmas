@@ -36,9 +36,9 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 - DevOps & Infra management (same from IT perspective)
 
 ## Support me
-> I'm super happy if my work is useful
+> I'm super happy if my work is useful and even more if you enjoy it
 
-Here are some simple things you can do to support me:
+Here are some simple things you can do to help me:
 - [Follow me on GitHub 🚀](https://github.com/thdelmas)
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 - [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
