@@ -5,7 +5,9 @@
 </h1>
 
 <p align='center'>
-  Bare Metal Human (a.k.a. jerry@42paris.fr / a.k.a. mia@42barcelona.com)
+  Bare Metal Human</br>
+  a.k.a.</br>
+  <a href="mailto:jerry@42paris.fr">jerry@42paris.fr</a> / <a href="mailto:mia@42barcelona.com">mia@42barcelona.com</a>
 </p>
 
 <p align='center'>  
