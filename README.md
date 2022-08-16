@@ -38,5 +38,6 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 ## Support me
 > I'm super happy if my work is useful
 
-Here are some simple things you can do to support me
+Here are some simple things you can do to support me:
+- [Follow me on GitHub !](https://github.com/thdelmas)
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
