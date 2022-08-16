@@ -44,6 +44,7 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 - Neural interfaces
 - Decentralized Big Data
 - After world journalism
+- Improved logical sophism detector
 
 ## Support me
 > I'm super happy if my work is useful and even more if you enjoy it
