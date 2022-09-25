@@ -44,8 +44,7 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 - Neural interfaces
 - Decentralized Big Data
 - After world journalism
-- Improved logical sophism detector
-  - Make it run live on TV during elections campains
+- Improved logical sophism detector streaming TV in real time for elections campains
 
 ## Support me
 > I'm super happy if my work is useful and even more if you enjoy it
@@ -53,4 +52,5 @@ I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https:/
 Here are some simple things you can do to help me:
 - [Follow me on GitHub 🚀](https://github.com/thdelmas)
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+- [Recommend me on LinkedIn 🤓](https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b/)
 - [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
