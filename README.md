@@ -54,3 +54,4 @@ Here are some simple things you can do to help me:
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 - [Recommend me on LinkedIn 🤓](https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b/)
 - [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
+- [Share my CV](https://companies.intra.42.fr/resumes/thdelmas)
