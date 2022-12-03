@@ -36,14 +36,15 @@ a {
 }
 
 #social>a>img {
-	height: 100%;
+	width: 13em;
 }
 
 #carroussel {
-	position: relative;
 	height: 65%;
+	vertical-align: middle;
 	width: 100%;
-	overflow: scroll;
+	overflow-x: scroll;
+	overflow-y: hidden;
 	white-space: nowrap;
 	scroll-snap-type: x mandatory;
 }
@@ -56,16 +57,17 @@ a {
 }
 
 #carroussel>section {
-	overflow: hidden;
 	scroll-snap-align: start;
 	display: inline-block;
-	height: 100%;
 	width: 100%;
 	text-align: center;
 }
 
+#carroussel>section>h2 {
+	margin-top: 0;
+}
+
 #skills {
-	overflow: scroll;
 	white-space: nowrap;
 	scroll-snap-type: y mandatory;
 }
