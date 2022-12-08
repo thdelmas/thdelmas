@@ -13,8 +13,9 @@ body, html {
 
 header {
 	display: flex;
-	flex-direction: column;
 	align-items: center;
+	justify-content: center;
+	text-align: center;
 	width: 100vw;
 	height: 100vh;
 	scroll-snap-align: start;
@@ -57,12 +58,13 @@ section.card {
 	margin: 0;
 	padding: 0;
 	width: 100vw;
-	height: 100vh;
-	padding-top: 4.2%;
+	height: 91.6vh;
+	padding-top: 4.2vh;
+	padding-bottom: 4.2vh%;
 	text-align: center;
 	scroll-snap-align: start;
 	scroll-snap-stop: always;
-	list-decoration: none;
+	list-style: none;
 	overflow-y: scroll;
 }
 
@@ -74,7 +76,7 @@ section.card {
 }
 
 #socialgates>a>img {
-	min-height: 4.2em;
+	min-height: 10vh;
 }
 
 #skills>h3 {
@@ -88,14 +90,14 @@ section.card {
 
 #spokenlanguages {
 	display: flex;
-	flex-align: raw;
+	flex-direction: row;
 	justify-content: space-around;
 	font-size: 6.3em;
 }
 
 #programinglanguages {
 	display: flex;
-	flex-align: raw;
+	flex-direction: row;
 	justify-content: space-around;
 	flex-wrap: wrap;	
 }
