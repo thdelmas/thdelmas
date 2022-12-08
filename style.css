@@ -11,14 +11,14 @@ body, html {
 	height: 100%;
 }
 
-header {
+#identities {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	text-align: center;
 	width: 100vw;
 	height: 100vh;
-	scroll-snap-align: start;
+	scroll-snap-align: center;
 }
 
 body {
@@ -33,15 +33,7 @@ ul {
 	padding-left: 0;
 }
 
-header>span {
-	height: 100%;
-	vertical-align: middle;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-}
-
-header>span>h1 {
+#identities>h1 {
 	font-size: 315%;
 	text-align: center;
 }
