@@ -10,6 +10,15 @@ $names = array("Touf",
 "Jerry Gaulé",
 "Jerry",
 "Mía",
+"Jerry",
+"thdelmas",
+"Delmas",
+"Mía",
+"thdelmas",
+"Mía",
+"Jerry",
+"Mía",
+"thdelmas",
 "Mía More");
 
 $name = $names[array_rand($names)];
