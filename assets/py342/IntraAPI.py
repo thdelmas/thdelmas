@@ -392,6 +392,26 @@ class intraAPI:
 		jsObj = json.loads(r.content.decode("utf-8"))
 		return jsObj
 
+	def getAchievements(self):
+		achievements = []
+		jsObj = None
+		page = 1
+		headers = {
+			'Accept': 'application/json',
+			'Authorization': 'Bearer ' + str(self.__token),
+		}
+		params = {}
+		while page == 1 or \
+		(r.status_code >= 200 and r.status_code < 300) and \
+		int(r.headers['X-Per-Page']) * page <= int(r.headers['X-Total']):
+			params['page'] = str(page)
+			r = self.get("/v2/achievements" , headers=headers, params=params)
+			jsObj = json.loads(r.content.decode("utf-8"))
+			for i in jsObj:
+				achievements.append(i)
+			page += 1
+		return achievements
+
 	def getAchievementsUsers(self, userId):
 		achievementsUsers = []
 		jsObj = None
@@ -451,6 +471,25 @@ class intraAPI:
 		print(jsObj)
 		r = self.post("/v2/patronages/", headers=headers, params=params, json=jsObj)
 		jsObj = json.loads(r.content.decode("utf-8"))
+		return jsObj
+
+	def createAchievementsUser(self, user_id, achievement_id):
+		if isinstance(user_id, str):
+			user_id = self.getUserId(user_id)
+		headers = {
+			'Accept': 'application/json',
+			'Authorization': 'Bearer ' + str(self.__token),
+		}
+		params = {}
+		jsObj = {
+		"achievements_user": {
+			"user_id": str(user_id),
+	        "achievement_id": str(achievement_id)
+			}
+		}
+		r = self.post("/v2/achievements_users/", headers=headers, params=params, json=jsObj)
+		jsObj = json.loads(r.content.decode("utf-8"))
+		print(jsObj)
 		return jsObj
 
 	def createCursusUser(self, user_id, cursus_id, begin_at):

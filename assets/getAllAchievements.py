@@ -27,20 +27,15 @@ if __name__ == '__main__':
 	scopes = "profile public projects elearning tig forum"
 	print("OAuth")
 	intra = IntraAPI.intraAPI(client_id, client_secret, 46, scopes, rate_limit)
-	user_id = intra.getUserId("thdelmas")
-	achievements = intra.getAchievementsUsers(user_id)
+	achievements = intra.getAchievements()
 	for achievement in achievements:
-		info = intra.getAchievement(achievement["achievement_id"])
-		achievement["name"] = info["name"]
-		achievement["description"] = info["description"]
-		achievement["image"] = info["image"]
-		achievement["tier"] = info["tier"]
-		achievement.pop("id")
-		achievement.pop("achievement_id")
-		achievement.pop("user_id")
-		achievement.pop("login")
-		achievement.pop("url")
-		achievement.pop("created_at")
-		achievement.pop("updated_at")
-	print(achievements)
+		achievement.pop("users_url")
+		achievement.pop("nbr_of_success")
+		achievement.pop("campus")
+		achievement.pop("tier")
+		achievement.pop("kind")
+		achievement.pop("visible")
+		achievement.pop("image")
+	achievements = sorted(achievements, key=lambda d: d['id']) 
+	print(json.dumps(achievements).encode("utf-8"))
 	intra.closeConnection()

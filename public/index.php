@@ -13,7 +13,7 @@
 	<section id="output">
 		<header>
 			<?php
-				include 'header.php'
+				#include 'header.php'
 			?>
 		</header>
 		<?php
@@ -21,7 +21,7 @@
 		?>
 		<footer align='center'>
 			<?php
-				include 'footer.php'
+				#include 'footer.php'
 			?>
 		</footer>
 	</section>
