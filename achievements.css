@@ -1,0 +1,58 @@
+#achievement_left>img {
+	aspect-ratio: 1/1;
+	height: 50vh;
+	align-self: center;
+	padding: 1em;
+}
+
+#achievement {
+	height: 100%;
+	width: 100%;
+	padding: 2.1em;
+}
+
+#achievement>span {
+	height: 100%;
+}
+
+#achievement_left {
+}
+
+#achievement_right {
+	font-size: 210%;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: center;
+}
+
+#achievement {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
+#achievements>h1 {
+	font-size: 315%;
+}
+
+#achievements {
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+}
+
+@media (orientation: landscape) {
+  #achievement {
+    flex-direction: row;
+  }
+}
+
+@media (orientation: portrait) {
+  #achievement {
+    flex-direction: column;
+  }
+}

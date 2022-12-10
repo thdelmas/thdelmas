@@ -6,8 +6,11 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title>Théophile Delmas 🧑‍💻🌴🚀</title>
 		<link rel="stylesheet" href="./style.css">
+		<link rel="stylesheet" href="./achievements.css">
 	</head>
 	<body>
+	<section id="grid">
+	<section id="output">
 		<header>
 			<?php
 				include 'header.php'
@@ -21,6 +24,8 @@
 				include 'footer.php'
 			?>
 		</footer>
+	</section>
+	</section>
 	</body>
 </html>
 
