@@ -4,7 +4,6 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: start;
-	padding: 1%;
   }
 
   #achievements>h1 {
@@ -80,7 +79,6 @@
 	flex-direction: column;
 	align-items: center;
 	justify-content: start;
-	padding: 1%;
   }
 
   #achievements>h1 {
