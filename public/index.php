@@ -5,25 +5,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title>Théophile Delmas 🧑‍💻🌴🚀</title>
-		<link rel="stylesheet" href="./style.css">
-		<link rel="stylesheet" href="./achievements.css">
+		<link rel="stylesheet" href="/style.css">
 	</head>
 	<body>
-	<section id="grid">
-	<section id="output">
-		<header>
-			<?php
-				#include 'header.php'
-			?>
-		</header>
-		<?php
-			include 'body.php'
-		?>
-		<footer align='center'>
-			<?php
-				#include 'footer.php'
-			?>
-		</footer>
+	<?php
+		include './header.php';
+		include './body.php';
+		#include './footer.php';
+	?>
 	</section>
 	</section>
 	</body>
