@@ -1,6 +1,6 @@
 <header>
 <nav>
-<h1>Théophile Delmas</h1>
+<h1><a href="/">Théophile Delmas</a></h1>
 <ul>
 <li><a href="/timeline.php" >Timeline</li></a>
 <li><a href="/projects.php" >Projects</li></a>

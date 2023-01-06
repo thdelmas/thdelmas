@@ -1,11 +1,15 @@
 .card {
-	height: 100%;
+	height: 90%;
 	width: 90%;
 	display: flex;
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
 	margin: 5%;
+	background: black;
+	border-radius: 50px;
+	background: #101010;
+	box-shadow:  5px 5px 10px #000, -5px -5px 10px #424242;
 }
 
 .card>blockquote {
@@ -15,5 +19,6 @@
 }
 
 .card>img {
+	padding: 2%;
 	height: 50%;
 }

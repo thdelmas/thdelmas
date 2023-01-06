@@ -13,6 +13,15 @@ html, body {
   background: #424242
 }
 
+main {
+  height: 95%;
+  width: 100%;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
 
 @media (orientation: landscape) {
 }
