@@ -1,6 +1,6 @@
 <header>
 <nav>
-<h1><a href="/main">Théophile Delmas</a></h1>
+<h1><a href="/">Théophile Delmas</a></h1>
 <ul>
 <li><a href="/assets/resume.pdf">Resume</li></a>
 <li><a href="/timeline" >Timeline</li></a>

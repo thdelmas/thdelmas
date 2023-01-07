@@ -12,8 +12,11 @@
 	else if (preg_match('#/timeline#', $_SERVER['REQUEST_URI'], $matches)) {
 		include "./srcs/timeline.php";
 	}
-	else {
+	else if (preg_match('#/$#', $_SERVER['REQUEST_URI'], $matches)) {
 		include "./srcs/home.php";
+	}
+	else {
+		include "./srcs/errors/404.php";
 	}
 ?>
 </main>
