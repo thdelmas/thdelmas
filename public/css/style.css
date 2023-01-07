@@ -1,6 +1,9 @@
 @import "header.style.css";
 @import "main.style.css";
 @import "card.style.css";
+@import "success.style.css";
+@import "contact.style.css";
+@import "timeline.style.css";
 
 html, body {
   position: fixed;
@@ -10,7 +13,7 @@ html, body {
   margin: 0;
   height: 100%;
   width: 100%;
-  background: #424242
+  background: #000
 }
 
 main {

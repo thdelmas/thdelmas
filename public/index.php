@@ -5,13 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		<title>Théophile Delmas 🧑‍💻🌴🚀</title>
-		<link rel="stylesheet" href="/style.css">
+		<link rel="stylesheet" href="/css/style.css">
 	</head>
 	<body>
 	<?php
-		include './header.php';
-		include './body.php';
-		#include './footer.php';
+		include './srcs/header.php';
+		include './srcs/body.php';
+		#include './srcs/footer.php';
 	?>
 	</section>
 	</section>

@@ -1,0 +1,35 @@
+.card {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+	height: 100%;
+	width: 100%;
+	background: black;
+	color: white;
+
+	margin: 0;
+	padding: 0;
+}
+
+.card>article {	
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+
+	height: 96%;
+        width: 96%;	
+}
+
+.card>article>blockquote {
+	font-size: 4.2em;
+	margin: 1em;
+	color: white;
+}
+
+.card>article>img {
+	padding: 2%;
+	height: 50%;
+}

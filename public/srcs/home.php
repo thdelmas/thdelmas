@@ -1,6 +1,6 @@
-<main>
-<article class="card">
+<div class="card">
+<article>
 <blockquote>Life may be pointless,</br>let's make one.</blockquote>
-<img src='/mia.png' alt="Mia"/>
+<img src='/images/mia.png' alt="Mia"/>
 </article>
-</main>
+</div>
