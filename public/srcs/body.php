@@ -16,7 +16,9 @@
 		include "./srcs/home.php";
 	}
 	else {
+		http_response_code(404);
 		include "./srcs/errors/404.php";
+		die();
 	}
 ?>
 </main>
