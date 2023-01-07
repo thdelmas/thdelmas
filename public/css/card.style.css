@@ -1,3 +1,4 @@
+@media (orientation: landscape) {
 .card {
 	display: flex;
 	flex-direction: row;
@@ -32,4 +33,45 @@
 .card>article>img {
 	padding: 2%;
 	height: 50%;
+}
+
+}
+
+@media (orientation: portrait) {
+.card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	height: 100%;
+	width: 100%;
+	background: black;
+	color: white;
+
+	margin: 1em;
+	padding: 0;
+}
+
+.card>article {	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+
+	height: 96%;
+        width: 96%;	
+}
+
+.card>article>blockquote {
+	font-size: 2.1em;
+	margin: 1em;
+	color: white;
+}
+
+.card>article>img {
+	padding: 2%;
+	max-width: 25%;
+	max-height: 50%;
+}
 }
