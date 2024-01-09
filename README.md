@@ -106,6 +106,9 @@
 <a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
+#### Join my projects
+- [Contribute on Rooster (Currently looking for 20 Testers)](https://github.com/thdelmas/Rooster)
+- [Join the Smojify experiment](https://github.com/Smojify)
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 - [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
