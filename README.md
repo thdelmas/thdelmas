@@ -91,6 +91,7 @@
 ### [🔭 42 Cursus](https://42.fr/)
 > - Level: `13.42`
 > - Branch: `Unix`
+> - [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
 
 ## Want to help ?
 > I'm super happy if my work is useful and even more if you enjoy it
@@ -102,6 +103,4 @@
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-- [Recommend me on LinkedIn 🤓](https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b/)
-- [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
 - [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
