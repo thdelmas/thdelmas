@@ -100,7 +100,7 @@
 ## Want to help ?
 > I'm super happy if my work is useful and even more if you enjoy it
 
-### Here are some simple things you can do to help me
+### Here are some simple things you can do
 #### Follow me
 <a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
