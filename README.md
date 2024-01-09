@@ -83,7 +83,7 @@
 **Currently venturing into the world of freelance work, eager to leverage my skills and experience to contribute to innovative projects.**
 
 ## Projects
-### [🎶 Smojify](https://github.com/thdelmas/Smojify/Smojify-Android)
+### [🎶 Smojify](https://github.com/Smojify/Smojify-Android)
 > Social experiment to highlight relation between music and emotions using emojis reactions
 
 ### [🐓 Rooster](https://github.com/thdelmas/Rooster)
