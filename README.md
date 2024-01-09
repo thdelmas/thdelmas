@@ -108,4 +108,4 @@
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-- [Start learning at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
+- [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
