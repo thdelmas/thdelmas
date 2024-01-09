@@ -99,6 +99,7 @@
 #### Follow me
 <a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
+<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 - [Recommend me on LinkedIn 🤓](https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b/)
