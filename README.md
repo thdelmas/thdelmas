@@ -79,12 +79,9 @@
 </details>
 
 ## About me
+**I am a passionate technology professional with a diverse skillset, including both technical and pedagogical expertise. I have a strong foundation in sciences and philosophy, which has shaped my approach to problem-solving and collaboration.**
 
-With a strong foundation in sciences and philosophy, I embarked on a journey of self-discovery that led me to the unique and challenging environment of [École 42 in Paris](https://42.fr). During my time there, I honed my **technical and pedagogical skills**, assisting students in their pursuit of knowledge and **problem-solving** abilities.
-
-My expertise extends beyond the classroom, as I successfully spearheaded the **opening and management of the [École 42 in Barcelona](https://42barcelona.com)**. This experience allowed me to develop my organizational and leadership skills, fostering an inclusive and supportive learning environment for aspiring developers.
-
-Currently, I am venturing into the world of **freelance** work, eager to leverage my diverse skillset and passion for technology to collaborate with innovative individuals and organizations.
+**Currently venturing into the world of freelance work, eager to leverage my skills and experience to contribute to innovative projects.**
 
 ## Projects
 
