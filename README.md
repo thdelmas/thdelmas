@@ -13,9 +13,45 @@
   </a>
 </p>
 
-<details>
-<summary><h2>Stack</h2></summary>
-<br>
+## About me
+**I am a passionate technology professional with a diverse skillset, including both technical and pedagogical expertise. I have a strong foundation in sciences and philosophy, which has shaped my approach to problem-solving and collaboration.**
+
+**Currently venturing into the world of freelance work, eager to leverage my skills and experience to contribute to innovative projects.**
+
+## Projects
+### [🎶 Smojify](https://github.com/Smojify/Smojify-Android)
+> Social experiment to highlight relation between music and emotions using emojis reactions
+
+### [🐓 Rooster](https://github.com/thdelmas/Rooster)
+> Android alarm clock based on sun course
+
+### [🛠️ 42 Barcelona](https://42barcelona.com)
+> IT infrastructure and pedagogy of 42 in Barcelona
+>
+> ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
+
+### [🔭 42 Cursus](https://42.fr/)
+> - Level: `13.42`
+> - Branch: `Unix`
+> - [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
+
+## Want to help ?
+> I'm super happy if my work is useful and even more if you enjoy it
+
+### Here are some simple things you can do
+#### Follow me
+<a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
+<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
+#### Join my projects
+- [Contribute on Rooster (Currently looking for 20 Testers)](https://github.com/thdelmas/Rooster)
+- [Join the Smojify experiment](https://github.com/Smojify/Smojify-Android)
+- [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
+#### Other
+- <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+
+## Stack
+
 <p align='center'>
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -75,41 +111,3 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
-</details>
-
-## About me
-**I am a passionate technology professional with a diverse skillset, including both technical and pedagogical expertise. I have a strong foundation in sciences and philosophy, which has shaped my approach to problem-solving and collaboration.**
-
-**Currently venturing into the world of freelance work, eager to leverage my skills and experience to contribute to innovative projects.**
-
-## Projects
-### [🎶 Smojify](https://github.com/Smojify/Smojify-Android)
-> Social experiment to highlight relation between music and emotions using emojis reactions
-
-### [🐓 Rooster](https://github.com/thdelmas/Rooster)
-> Android alarm clock based on sun course
-
-### [🛠️ 42 Barcelona](https://42barcelona.com)
-> IT infrastructure and pedagogy of 42 in Barcelona
->
-> ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
-
-### [🔭 42 Cursus](https://42.fr/)
-> - Level: `13.42`
-> - Branch: `Unix`
-> - [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
-
-## Want to help ?
-> I'm super happy if my work is useful and even more if you enjoy it
-
-### Here are some simple things you can do
-#### Follow me
-<a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
-<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
-#### Join my projects
-- [Contribute on Rooster (Currently looking for 20 Testers)](https://github.com/thdelmas/Rooster)
-- [Join the Smojify experiment](https://github.com/Smojify/Smojify-Android)
-- [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
-#### Other
-- <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
