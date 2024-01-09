@@ -6,11 +6,8 @@
 
 <p align='center'>
   Bare Metal Human</br>
-  a.k.a.</br>
-  <a href="mailto:contact@theophile.world">contact@theophile.world</a>
-</p>
-
-<p align='center'>  
+  </p>
+<p align='center'>
   <a href="https://www.linkedin.com/in/théophile-delmas-92275b16b">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,6 +16,7 @@
 <details>
 <summary><h2>Stack</h2></summary>
 <br>
+<p align='center'>
 <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
@@ -77,6 +75,7 @@
 <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
 </details>
 
 ## My Work
