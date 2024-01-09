@@ -7,7 +7,7 @@
 <p align='center'>
   Bare Metal Human</br>
   a.k.a.</br>
-  <a href="mailto:jerry@42paris.fr">jerry@42paris.fr</a> / <a href="mailto:mia@42barcelona.com">mia@42barcelona.com</a>
+  <a href="mailto:contact@theophile.world">contact@theophile.world</a>
 </p>
 
 <p align='center'>  
