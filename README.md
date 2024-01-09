@@ -78,42 +78,29 @@
 </p>
 </details>
 
-## My Work
+## Projects
 
-### [42 Barcelona](https://github.com/42Barcelona)
+### [🐓 Rooster](https://github.com/thdelmas/Rooster)
+> Android alarm clock based on sun course
 
-I'm managing the IT infrastructure and the pedagogy of [42 in Barcelona](https://github.com/42Barcelona)
+### [🛠️ 42 Barcelona](https://42barcelona.com)
+> IT infrastructure and pedagogy of 42 in Barcelona
+>
+> ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
+### [🔭 42 Cursus](https://42.fr/)
+> - Level: `13.42`
+> - Branch: `Unix`
 
-
-### 🔭 I’m working on [42 Cursus](https://42.fr/)
-- Level: `13.42`
-- Branch: `Unix`
-
-## Predilections
-
-### The ones I do already
-- Cyberecurity
-- Gamification systems
-- Event Driven Automation
-- 42 Campus Management (from pedagogical perspective)
-- DevOps & Infra management (same from IT perspective)
-- Peer-Pedagogy, autodidacticism & personnal development
-
-### The ones I would like to do
-- Bio-Tech
-- Neural interfaces
-- Decentralized Big Data
-- After world journalism
-- Improved logical sophism detector streaming TV in real time for elections campains
-
-## Support me
+## Want to help ?
 > I'm super happy if my work is useful and even more if you enjoy it
 
-Here are some simple things you can do to help me:
-- [Follow me on GitHub 🚀](https://github.com/thdelmas)
+### Here are some simple things you can do to help me
+#### Follow me
+<a href="https://github.com/thdelmas"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
+#### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 - [Recommend me on LinkedIn 🤓](https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b/)
-- [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
 - [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
+- [Learn with us @42Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
