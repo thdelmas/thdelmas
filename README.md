@@ -108,6 +108,6 @@
 #### Join my projects
 - [Contribute on Rooster (Currently looking for 20 Testers)](https://github.com/thdelmas/Rooster)
 - [Join the Smojify experiment](https://github.com/Smojify)
+- [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-- [Learn at 42 Barcelona ! 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
