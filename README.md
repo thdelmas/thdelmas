@@ -19,6 +19,9 @@
 **Currently venturing into the world of freelance work, eager to leverage my skills and experience to contribute to innovative projects.**
 
 ## Projects
+### [💶 Bount.ing](https://bount.ing)
+> OSS Bounty plateform to empower small companies and individual contributors. Learn and earn while contributing.
+
 ### [🎶 Smojify](https://github.com/Smojify/Smojify-Android)
 > Social experiment to highlight relation between music and emotions using emojis reactions
 
