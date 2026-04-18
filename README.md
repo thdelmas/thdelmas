@@ -26,7 +26,7 @@
 ### [🕶️ Lethe](https://github.com/thdelmas/lethe)
 > Privacy-hardened Android OS built on LineageOS 22.1. Network hardening, device identity rotation, Guardian modules, and a multi-provider AI agent. Technology that works for you, not on you.
 
-### [💶 Preujust.cat](https://preujust.cat)
+### [🛒 Preujust.cat](https://preujust.cat)
 > Price transparency tool for Catalunya. Collects supermarket prices and lets people compare them.
 
 ### [🌐 theophile.world](https://theophile.world)
