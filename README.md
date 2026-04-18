@@ -38,6 +38,9 @@
 ### [🚭 Smokeless](https://github.com/thdelmas/Smokeless)
 > Quit-smoking tracker for Android. Log sessions, resist cravings, watch your progress over time.
 
+### [🛡️ Virgil](https://github.com/thdelmas/Virgil)
+> Fall detection and check-in for people living alone. Android safety companion that watches out for you when no one else can.
+
 ### [🎶 Emuji](https://github.com/thdelmas/Emuji)
 > React to Spotify tracks with emojis and discover playlists based on collective vibes.
 
