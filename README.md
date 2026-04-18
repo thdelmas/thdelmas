@@ -19,21 +19,40 @@
 **I believe technology should benefit humanity, not extract from it. Open source, privacy by design, and autonomy drive everything I build.**
 
 ## Projects
-### [OSmosis](https://github.com/thdelmas/OSmosis)
-> Open-source device flashing platform — CLI, web UI, custom firmware builder, and device support for 200+ devices. Making OS installation as simple as choosing a game on a store.
 
-### [Lethe](https://github.com/thdelmas/Virgil)
-> Privacy-hardened Android OS built on LineageOS. Network hardening, device identity rotation, and a multi-provider AI agent. Technology that works for you, not on you.
+### [💧 OSmosis](https://github.com/thdelmas/OSmosis)
+> Open-source device flashing platform. CLI, web UI, custom firmware builder, and device support for flashing alternative operating systems on 200+ devices. Choosing an OS should be as simple as choosing a game on a store.
 
-### [theophile.world](https://theophile.world)
-> Personal portfolio and guides — practical guides on e-waste, overtime, sustainability. PPP price converter, compound interest calculator. Built with Vue 3, TypeScript, Vuetify.
+### [🕶️ Lethe](https://github.com/thdelmas/lethe)
+> Privacy-hardened Android OS built on LineageOS 22.1. Network hardening, device identity rotation, Guardian modules, and a multi-provider AI agent. Technology that works for you, not on you.
 
-### [Rooster](https://github.com/thdelmas/Rooster)
-> Android alarm clock based on sun course
+### [💶 Preujust.cat](https://preujust.cat)
+> Price transparency tool for Catalunya. Collects supermarket prices and lets people compare them.
 
-### [42 Cursus](https://42.fr/)
+### [🌐 theophile.world](https://theophile.world)
+> Personal portfolio and guides — practical writing on e-waste, overtime, sustainability. Built-in PPP price converter and compound interest calculator. Vue 3 + TypeScript + Vuetify.
+
+### [🐓 Rooster](https://github.com/thdelmas/Rooster)
+> Android alarm clock that wakes you with the sunrise at your location. Kotlin + Jetpack Compose.
+
+### [🚭 Smokeless](https://github.com/thdelmas/Smokeless)
+> Quit-smoking tracker for Android. Log sessions, resist cravings, watch your progress over time.
+
+### [🎶 Emuji](https://github.com/thdelmas/Emuji)
+> React to Spotify tracks with emojis and discover playlists based on collective vibes.
+
+### [💶 Bount.ing](https://bount.ing)
+> Marketplace idea for funding open-source projects. Backend, payment flows, trust mechanisms.
+
+### [🛠️ 42 Barcelona](https://42barcelona.com)
+> Helped set up and run the technical and pedagogical infrastructure — servers, tools, and student systems.
+>
+> ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49293011/184696364-ed63db8f-be70-4ab2-a116-447432bdc0e2.gif)
+
+### [🔭 42 Cursus](https://42.fr/)
 > - Level: `13.42`
 > - Branch: `Unix`
+> - [Share my CV 🕊](https://companies.intra.42.fr/resumes/thdelmas)
 
 ## Want to help ?
 > I'm super happy if my work is useful and even more if you enjoy it
@@ -44,9 +63,10 @@
 <a href="https://open.spotify.com/user/31xyt7khqn7ujom2jvmttstq2r44"><img src="https://img.shields.io/badge/Spotify-000000?&style=for-the-badge&logo=spotify"/></a>
 <a href="https://www.linkedin.com/in/th%C3%A9ophile-delmas-92275b16b"><img src="https://img.shields.io/badge/Linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
 #### Join my projects
-- [Contribute to OSmosis](https://github.com/thdelmas/OSmosis)
-- [Explore Lethe](https://github.com/thdelmas/Virgil)
-- [Try Rooster (Android alarm clock)](https://github.com/thdelmas/Rooster)
+- [Contribute to OSmosis 💧](https://github.com/thdelmas/OSmosis)
+- [Explore Lethe 🕶️](https://github.com/thdelmas/lethe)
+- [Try Rooster 🐓](https://github.com/thdelmas/Rooster)
+- [Learn at 42 Barcelona 🧑‍💻 🌴](https://candidatura.42barcelona.com/)
 #### Other
 - <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars</a>
 
